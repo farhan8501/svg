@@ -1,0 +1,199 @@
+http://websystique.com/springmvc/spring-mvc-4-and-spring-security-4-integration-example/
+****textbook****
+http://shop.oreilly.com/product/0636920026938.do
+********************
+donut:
+***percent***
+http://www.adeveloperdiary.com/d3-js/how-to-create-progress-chart-using-d3-js/
+***with legend**
+http://www.adeveloperdiary.com/d3-js/create-a-simple-donut-chart-using-d3-js/
+
+
+****bubble chart****
+https://jrue.github.io/coding/2014/exercises/basicbubblepackchart/
+
+http://vallandingham.me/bubble_charts_with_d3v4.html
+
+https://github.com/vlandham/bubble_chart_v4
+
+************modal dialog box*************
+http://api.jqueryui.com/dialog/#entry-examples
+
+
+https://stackoverflow.com/questions/42217829/how-to-show-jsp-page-in-modal-popup-window
+
+
+https://stackoverflow.com/questions/15542800/modal-popup-in-jsp
+
+**********************************************utf charset *******
+http://kunststube.net/frontback/
+***************************
+********scaling in d3************
+https://www.dashingd3js.com/d3js-scales
+https://stackoverflow.com/questions/16265123/resize-svg-when-window-is-resized-in-d3-js
+https://www.dashingd3js.com/lessons/d3-time-scales
+https://stackoverflow.com/questions/20827335/how-to-scale-an-integer-to-date-with-range-and-domain
+https://stackoverflow.com/questions/33997824/d3-js-linechart-controlling-x-axis-with-dates
+
+
+***********************************
+https://stackoverflow.com/questions/6600738/use-jstl-foreach-loops-varstatus-as-an-id
+***********************************
+https://stackoverflow.com/questions/4763918/jquery-store-ajax-json-response-as-variable
+
+
+https://stackoverflow.com/questions/2177548/load-json-into-variable
+
+http://jsfiddle.net/hX69r/1/
+https://stackoverflow.com/questions/14992290/how-can-i-parse-json-with-multiple-lines
+
+
+***********************************
+bubble reload new data
+
+https://stackoverflow.com/questions/36310042/updating-nested-d3-bubble-chart-with-streaming-data
+
+https://stackoverflow.com/questions/23825126/how-to-update-bubble-chart-in-d3-js
+
+http://jsfiddle.net/CCRb5/
+************************************
+Bubble highlight feature in d3js bubble chart
+
+https://stackoverflow.com/questions/33671132/bubble-highlight-feature-in-d3js-bubble-chart?rq=1
+
+on Click highlight, drag bubble, 
+http://jsfiddle.net/3tu37gu9/1/
+
+
+************************************
+Filtering the d3 bubble chart as we type
+
+https://stackoverflow.com/questions/38127386/filtering-the-d3-bubble-chart-as-we-type?rq=1
+************************************
+Creating a legend for a bubble chart using D3
+
+https://stackoverflow.com/questions/28653331/creating-a-legend-for-a-bubble-chart-using-d3?rq=1
+
+************************************
+reset donut chart
+
+https://stackoverflow.com/questions/35201016/why-doesnt-this-d3-chart-redraw-when-i-repeatedly-call-its-original-draw-funct
+
+************************************
+https://stackoverflow.com/questions/21830058/array-to-string-containing-commas-javascript
+
+************************************
+************************************
+another key name to get value from other key
+https://stackoverflow.com/questions/42756724/get-key-value-based-on-value-of-another-key-in-object
+
+************************************
+update chart$
+
+https://stackoverflow.com/questions/30335368/remove-text-from-nodes-in-d3
+
+https://stackoverflow.com/questions/36416019/update-bar-chart-and-removing-labels
+
+http://bl.ocks.org/sathomas/1ca23ee9588580d768aa
+
+https://stackoverflow.com/questions/22452112/nvd3-clear-svg-before-loading-new-chart
+
+https://stackoverflow.com/questions/37851346/grouping-of-the-bubble-chart?rq=1
+
+https://stackoverflow.com/questions/38127386/filtering-the-d3-bubble-chart-as-we-type?rq=1
+
+************************************
+severity:      Status:         Color:
+Low            Open          Green
+Moderate    In-Progress Yellow
+High            Closed        Red
+how about assigning colors in initial display of bubbles
+advantage: we dont require 3 filter to apply 
+*************************************
+https://stackoverflow.com/questions/9642205/how-to-force-a-script-reload-and-re-execute
+
+https://stackoverflow.com/questions/13388017/one-button-one-function-on-first-click-another-on-second
+
+**************************************
+https://stackoverflow.com/questions/19972938/how-to-set-bubble-color-in-d3-based-on-ordinal-values-defined
+
+*************************************
+
+how filter works is
+level 1 (category)
+level 2 (status->open)
+output: bubbles with status open under different categories
+************************************
+https://stackoverflow.com/questions/18564309/d3-legend-transition-on-update?rq=1
+************************************
+assign width height from device d3
+
+https://stackoverflow.com/questions/16265123/resize-svg-when-window-is-resized-in-d3-js
+
+https://stackoverflow.com/questions/9400615/whats-the-best-way-to-make-a-d3-js-visualisation-layout-responsive
+
+*****************************************
+search box
+
+http://www.coppelia.io/2014/07/an-a-to-z-of-extra-features-for-the-d3-force-layout/
+
+https://stackoverflow.com/questions/33671132/bubble-highlight-feature-in-d3js-bubble-chart
+
+******************************************
+json examples
+
+https://gist.github.com/DanDiplo/30528387da41332ff22b
+
+*******************************************
+JSLINQ
+
+https://stackoverflow.com/questions/34150032/how-to-write-enumerable-like-query-using-linq-js
+
+******************************************
+drag bubble
+https://bl.ocks.org/mbostock/6123708
+******************************************
+scroll bar 
+http://anseki.github.io/jquery-ui-autocomplete-scroll/
+
+*****************************************
+on click blank space
+
+https://stackoverflow.com/questions/1309804/jquery-click-event-on-blank-space
+********************************************
+bootstrap 1.5 W
+https://stackoverflow.com/questions/30026855/can-i-give-the-col-md-1-5-in-bootstrap
+
+****************************************
+jquery add or remove elem dynamically
+
+https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_node_removechild_while
+
+
+https://stackoverflow.com/questions/11398522/create-a-div-using-loop
+
+https://stackoverflow.com/questions/17650776/add-remove-html-inside-div-using-javascript
+
+http://p2p.wrox.com/javascript-how/84276-how-compare-current-value-previous-value-loop.html
+
+**********************************************
+anchor click <a>
+
+https://stackoverflow.com/questions/30565512/how-to-click-an-anchor-tag-from-javascript-or-jquery
+
+radio click to disable text box
+
+https://stackoverflow.com/questions/17248752/disable-textbox-on-radio-button-click
+
+***********************************************
+Linux
+
+https://www.cyberciti.biz/faq/unix-linux-test-existence-of-file-in-bash/
+
+https://www.unix.com/shell-programming-and-scripting/75297-what-does-echo-mean.html
+
+*********************************************
+filter json
+https://blog.joshsoftware.com/2011/09/28/filter-js-client-side-search-filtering-using-json-and-jquery/
+
+*********************************************
